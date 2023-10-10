@@ -2,7 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import "./App.css";
 
-import SearchBarComponent from "./components/SearchBar";
+import SearchBarComponent from "./components/SearchBar/SearchBarComponent";
 import ProductTableComponent from "./components/ProductTable/ProductTable";
 
 const App: React.FC = () => {
