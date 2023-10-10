@@ -1,0 +1,142 @@
+[
+  {
+    "category": "Clothing",
+    "name": "T-Shirt",
+    "price": 15.99,
+    "quantity": 10,
+    "isOnStock": true
+  },
+  {
+    "category": "Clothing",
+    "name": "Hoodie",
+    "price": 29.99,
+    "quantity": 3,
+    "isOnStock": true
+  },
+  {
+    "category": "Clothing",
+    "name": "Jeans",
+    "price": 49.99,
+    "quantity": 7,
+    "isOnStock": true
+  },
+  {
+    "category": "Shoes",
+    "name": "Sneakers",
+    "price": 79.99,
+    "quantity": 2,
+    "isOnStock": true
+  },
+  {
+    "category": "Shoes",
+    "name": "Boots",
+    "price": 99.99,
+    "quantity": 0,
+    "isOnStock": false
+  },
+  {
+    "category": "Accessories",
+    "name": "Sunglasses",
+    "price": 19.99,
+    "quantity": 12,
+    "isOnStock": true
+  },
+  {
+    "category": "Accessories",
+    "name": "Watch",
+    "price": 99.99,
+    "quantity": 1,
+    "isOnStock": true
+  },
+  {
+    "category": "Accessories",
+    "name": "Backpack",
+    "price": 49.99,
+    "quantity": 4,
+    "isOnStock": true
+  },
+  {
+    "category": "Electronics",
+    "name": "Smartphone",
+    "price": 699.99,
+    "quantity": 8,
+    "isOnStock": true
+  },
+  {
+    "category": "Electronics",
+    "name": "Laptop",
+    "price": 1299.99,
+    "quantity": 3,
+    "isOnStock": true
+  },
+  {
+    "category": "Electronics",
+    "name": "Headphones",
+    "price": 149.99,
+    "quantity": 6,
+    "isOnStock": true
+  },
+  {
+    "category": "Home",
+    "name": "Pillow",
+    "price": 29.99,
+    "quantity": 0,
+    "isOnStock": false
+  },
+  {
+    "category": "Home",
+    "name": "Blanket",
+    "price": 49.99,
+    "quantity": 2,
+    "isOnStock": true
+  },
+  {
+    "category": "Home",
+    "name": "Candle",
+    "price": 9.99,
+    "quantity": 8,
+    "isOnStock": true
+  },
+  {
+    "category": "Beauty",
+    "name": "Lipstick",
+    "price": 14.99,
+    "quantity": 5,
+    "isOnStock": true
+  },
+  {
+    "category": "Beauty",
+    "name": "Mascara",
+    "price": 19.99,
+    "quantity": 0,
+    "isOnStock": false
+  },
+  {
+    "category": "Beauty",
+    "name": "Perfume",
+    "price": 59.99,
+    "quantity": 3,
+    "isOnStock": true
+  },
+  {
+    "category": "Food",
+    "name": "Chocolate",
+    "price": 4.99,
+    "quantity": 15,
+    "isOnStock": true
+  },
+  {
+    "category": "Food",
+    "name": "Coffee",
+    "price": 9.99,
+    "quantity": 6,
+    "isOnStock": true
+  },
+  {
+    "category": "Food",
+    "name": "Tea",
+    "price": 7.99,
+    "quantity": 1,
+    "isOnStock": true
+  }
+]
